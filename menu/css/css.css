@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	background-image:url(../img/background.jpg);
+}
+
+.menu {
+	background-image:url(../img/content.jpg);
+	font-size:18px;
+	height:100%;
+}
+
+.header {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+	width:100%;
+	margin-left: 0;
+	padding: 1px;
+	text-align:center;
+}
+
+.content_header{
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.buttons{
+	margin:10% 20%;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.page_header{
+	box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.menu_content
+{
+	background-color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	font-weight: bold;	
+	border-bottom: 1px solid #ccc;
+	box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.menu_content1
+{
+	background-color: rgba(255, 255, 255, 0.8);
+	padding-top: 5px;
+}
+.menu_content_desc
+{
+	text-align:left;
+	font-weight:normal;
+	font-size:10px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+}
+.menu_content_price
+{
+	text-align:right;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 5px;
+}
+.menu_content_name
+{
+	text-align:left;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+p{
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+
+.menu_shadow {
+	box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+li{
+	cursor: hand;
+}
+

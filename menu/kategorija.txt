@@ -1,0 +1,12 @@
+drinks
+-alcoholic
+ -beer
+ -whisky
+ -wine
+-not_alcoholic
+   -juice
+   -water
+   -coffe
+pizza
+  -pizza
+  -pasta
